@@ -1,4 +1,4 @@
-![MasterHead](./City night.gif)
+![MasterHead](./City_night.gif)
 
 # 💫 About Me
 💬 Third-year Epitech student specialized in full-stack development with a passion for Cyber Security<br>🔭 Currently working on AREA (Action REAction), inspired by IFTTT and Zapier<br>🌱 Currently seeking a 4-month internship opportunity for the conclusion of my third year<br>
