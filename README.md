@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me
-💬 First year student in Epitech with a passion for Cyber Security <br>🔭 Currently working on minishell1 and RobotFactory<br>🌱 Doing some Tryhackme, rootme and pentesterlab<br>
+💬 First year student in Epitech with a passion for Cyber Security <br>🔭 Currently working on minishell1 and RobotFactory<br>🌱 Doing some Tryhackme, rootme and pentesterlab<br>📄 My CV is available [Here](https://github.com/xmarano/xmarano/blob/main/cv_leo-gregori.pdf)<br>
 
 # 🏆 GitHub Stats
 <p float="left">
