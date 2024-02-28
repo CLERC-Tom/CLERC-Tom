@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./background.jpeg" alt="City Night" />
+  <img src="./background.jpeg" alt="City Night" width="100%" />
 </p>
 
 # 💫 About Me
