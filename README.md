@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me
-💬 First year student in Epitech with a passion for Cyber Security <br>🔭 Currently working on minishell1 and RobotFactory<br>🌱 Doing some Tryhackme, rootme and pentesterlab<br>📄 My CV is available [Here](../CV_CLERC_Tom_v2.png)<br>
+💬 First year student in Epitech with a passion for Cyber Security <br>🔭 Currently working on minishell1 and RobotFactory<br>🌱 Doing some Tryhackme, rootme and pentesterlab<br>📄 My CV is available [Here](https://github.com/CLERC-Tom/CLERC-Tom/blob/6b4d035c784fb43791902b5b148b08e6ffa33330/CV_CLERC_Tom_v2.png)<br>
 
 # 🏆 GitHub Stats
 <p float="left">
