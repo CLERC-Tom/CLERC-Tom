@@ -7,10 +7,8 @@
 
 # 🏆 GitHub Stats
 <p float="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=CLERC-Tom&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" width="50%" />
-</p>
-<p float="right">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CLERC-Tom&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="50%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=CLERC-Tom&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="50%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CLERC-Tom&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="50%" />
 </p>
 
 
