@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me
-💬 Second year student in Epitech with a passion for Cyber Security <br>🔭 Currently working on the pool in c++ and haskell <br> 👁️ Doing some Tryhackme, Rootme and OverTheWirebr>📄 My CV is available [Here](https://github.com/CLERC-Tom/CLERC-Tom/blob/6b4d035c784fb43791902b5b148b08e6ffa33330/CV_CLERC_Tom_v2.png)<br>
+💬 Second year student in Epitech with a passion for Cyber Security <br>🔭 Currently working on the some projects <br> 👁️ Doing some Tryhackme, Rootme and OverTheWire <br>📄 My CV is available [Here](https://github.com/CLERC-Tom/CLERC-Tom/blob/6b4d035c784fb43791902b5b148b08e6ffa33330/CV_CLERC_Tom_v2.png)<br>
 
 # 🏆 GitHub Stats
 <p float="left">
