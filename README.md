@@ -43,7 +43,3 @@
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=infenium&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Tom's Github Stats" />
-</p>
