@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi there, I'm Tom Clerc</h1>
-<h3 align="center">Cybersecurity Student @ Epitech | SOC Analyst in Training</h3>
+<h3 align="center">Cybersecurity Student @ Epitech</h3>
 
 <p align="center">
   Third-year student passionate about **InfoSec** and **Infrastructure**. <br>
