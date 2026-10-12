@@ -7,7 +7,7 @@
 
 <p align="center">
   Cybersecurity engineer at <b>Ramify</b> (AMF-regulated wealth management, Paris), running the <b>DORA</b> compliance programme and automating security controls.<br>
-  MSc Cybersecurity student at CESI (2028). Based in Marseille, France · open to remote and international roles.
+  MSc Cybersecurity student at CESI (2028). Open to remote and international roles.
 </p>
 
 <br>
