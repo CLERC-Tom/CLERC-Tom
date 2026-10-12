@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Tom Clerc</h1>
-<h3 align="center">Cybersecurity Engineer · GRC & Security Automation</h3>
+<h3 align="center">GRC Cybersecurity Engineer · Governance, Risk & Compliance</h3>
 
 <p align="center">
   Cybersecurity engineer at <b>Ramify</b> (AMF-regulated wealth management, Paris), running the <b>DORA</b> compliance programme and automating security controls.<br>
@@ -14,8 +14,8 @@
 
 <h2 align="center">What I do</h2>
 
-- **Governance, risk & compliance**: DORA control plan (74 controls across three lines of defence), risk mapping (BIA, TPRM), policies, DR plans and runbooks, third-party incident handling
-- **Security automation**: 37 controls run as serverless functions with evidence-backed verdicts, control tracking app (FastAPI + Notion API)
+- **Governance, risk & compliance**: DORA control plan across three lines of defence, risk mapping (BIA, TPRM), policies, DR plans and runbooks, third-party incident handling
+- **Security automation**: controls run as serverless functions with evidence-backed verdicts, control tracking app (FastAPI + Notion API)
 - **Security operations**: Wazuh SIEM/XDR (MITRE ATT&CK rules, automated case tickets, Slack alerting), MDM (Fleet), WireGuard VPN managed in GitOps
 - **Cloud & IaC**: IAM hardening on AWS, Scaleway and GCP, Terraform static analysis, backup restore testing (S3 + KMS)
 
@@ -30,7 +30,7 @@
 | [Active Directory Fortress Lab](https://github.com/CLERC-Tom/Active-Directory-Fortress-Lab) | Purple-team lab: Windows Server 2022 domain hardened with custom Wazuh rules and netsh-based response |
 | [SOC Analyst Lab Reports](https://github.com/CLERC-Tom/SOC-Analyst-Lab-Reports) | Blue-team investigation write-ups: phishing, network compromise, endpoint malware |
 
-Most of my 2026 work lives in private repositories at Ramify (130+ commits: control automation, VPN GitOps, security tooling).
+Most of my 2026 work lives in private repositories at Ramify (control automation, VPN GitOps, security tooling).
 
 <br>
 
